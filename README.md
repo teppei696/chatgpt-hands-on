@@ -1,13 +1,5 @@
 # LINE アプリで簡単に作れる AI チャットボット！ ChatGPT 連携
 
-- 目次
-  1. 本日の流れ
-  1. OpenAI の設定
-  1. LINE Messaging API の設定
-  1. make の設定
-
-1. 本日の流れ
-
 - OpenAI の設定
 
   1. アカウント作成
