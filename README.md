@@ -4,11 +4,12 @@
 
   1. アカウント作成
 
-     「[Create your account](https://platform.openai.com/signup)」画面にアクセスし、OpenAI のアカウントを作成してください  
+     「[Create your account](https://platform.openai.com/signup)」画面にアクセスし、OpenAI のアカウントを作成  
      ![OpenAI 1](img/openai-01.png)
 
   1. ログイン
-     「Create your account」画面にアクセス後、「Log in」リンクをクリックし、ログイン画面を表示してください。
+
+     「[Create your account](https://platform.openai.com/signup)」画面にアクセス後、「Log in」リンクをクリックし、ログイン画面を表示後、ログインを実施  
      ![OpenAI 2](img/openai-02.png)
 
   1. 「API Keys」画面に遷移
@@ -29,7 +30,7 @@
   1. 「secret key」をコピー
 
      「Create new secret key」ダイアログに表示された「コピー」ボタンをクリックし、「secret key」をコピーし、「Done」ボタンをクリック
-     ※コピーした secret key をテキストエディターにペーストしておいてください
+     ※コピーした secret key をテキストエディターにペーストしておいてください  
      ![OpenAI 6](img/openai-06.png)
 
 - LINE Messaging API の設定
