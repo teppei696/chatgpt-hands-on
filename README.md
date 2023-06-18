@@ -136,7 +136,7 @@
 
   1. scenario の作成
 
-     「Create a new scenario」ボタンをクリックし、 「New scenario」画面を開く
+     「Create a new scenario」ボタンをクリックし、 「New scenario」画面を開く  
      ![make 03](img/make-03.png)
 
   1. LINE application の追加
