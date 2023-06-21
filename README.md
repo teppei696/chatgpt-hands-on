@@ -141,7 +141,7 @@
 
   1. LINE application の追加
 
-     「+」ボタンクリック後、検索フォームに「LINE」を入力し、「LINE」をクリック  
+     「+」ボタンクリック後、検索フォームに「LINE」を入力し、「LINE」を選択  
      ![make 04](img/make-04.png)
 
   1. 「Watch Events」 の追加
@@ -161,7 +161,7 @@
 
   1. 「connection」 の作成
 
-     「Create a connection」ダイアログの「Connection name」に「hands-on」と入力し、「Channel Access Token」に「「チャンネルアクセストークン」のコピー」でコピーしたチャネルアクセストークンを貼り付けて「Save」ボタンをクリック  
+     「Create a connection」ダイアログの「Connection name」に「hands-on」と入力し、「Channel Access Token」に【「チャンネルアクセストークン」のコピー】でコピーしたチャネルアクセストークンを貼り付けて「Save」ボタンをクリック  
      ![make 08](img/make-08.png)
 
   1. 「webhook」 の作成
@@ -171,7 +171,7 @@
 
   1. 「Webhook address」のコピー
 
-     「LINE」ダイアログの「Copy address to clipboard」ボタンをクリックし、「address」をコピーし、テキストに貼り付けておいてください。貼り付けが追わたら「OK」ボタンをクリックして「LINE」ダイアログを閉じてください
+     「LINE」ダイアログの「Copy address to clipboard」ボタンをクリックし、「address」をコピーし、テキストに貼り付けておいてください。貼り付けが終わったら「OK」ボタンをクリックして「LINE」ダイアログを閉じてください  
      ![make 10](img/make-10.png)
 
   1. 「make」を一時保存
@@ -183,14 +183,14 @@
 
   1. Webhook 設定
 
-     「LINE Developers」画面の「Messaging API 設定」タブの「Webhook 設定 > 編集」ボタンをクリック後、入力欄に【「Webhook address」のコピー】でコピーしたアドレスを貼り付けて「更新ボタン」をクリック
+     「LINE Developers」画面の「Messaging API 設定」タブの「Webhook 設定 > 編集」ボタンをクリック後、入力欄に【「Webhook address」のコピー】でコピーしたアドレスを貼り付けて「更新ボタン」をクリック  
      ![make-line 01](img/make-line-01.png)
 
   1. Webhook 検証
 
      「make」画面で「Run Once」ボタンクリック後、「LINE Developers」画面に戻り「Messaging API 設定」タブの「Webhook 設定 > 検証」ボタンをクリックし、「成功」ダイアログが表示されることを確認  
      「make」画面に戻り、LINE アイコンの右上に「1」が表示されることを確認  
-     「LINE Developers」画面に戻り「Messaging API 設定」タブの「Webhook 設定 > webhook の利用」ボタンを On に変更
+     「LINE Developers」画面に戻り「Messaging API 設定」タブの「Webhook 設定 > webhook の利用」ボタンを On に変更  
      ![make-line 02](img/make-line-02.png)
      ![make-line 03](img/make-line-03.png)
      ![make-line 04](img/make-line-04.png)
