@@ -38,13 +38,13 @@
   1. LINE Business ID の作成
 
      以下のリンクにアクセスし、LINE Business ID のアカウントを作成してください  
-     https://account.line.biz/login  
+     https://account.line.biz/login
      ![LINE 01](img/line-01-01.png)
 
   1. LINE Developers ID ログイン画面を開く
 
      以下のリンクの「LINE アカウントでログイン」ボタンをクリックし、ログイン画面を開く  
-     https://account.line.biz/login  
+     https://account.line.biz/login?redirectUri=https%3A%2F%2Fdevelopers.line.biz%2Fconsole%2F  
      ![LINE 01](img/line-01-02.png)
 
   1. ログイン
